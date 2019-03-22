@@ -1,3 +1,4 @@
+#Calculadora de teste
 #calcula tabuada
 numero = int(input("Informe a tabuada que deseja calcular "))
 numerovezes = int(input("Informe a quantidade de multiplicações "))
